@@ -316,8 +316,7 @@ a:hover {
 h1 {
     color: #393939;
     font-size: 60px;
-    text-transform: uppercase;
-    font-family: 'Monolith', sans-serif;
+        font-family: 'Monolith', sans-serif;
 }
 
 h3 {
@@ -619,8 +618,8 @@ div{
 
 .box-primary-nav .box-label {
     color: #ff3333;
-    text-transform: uppercase;
-    font-weight: 700;
+/*    text-transform: uppercase;
+*/    font-weight: 700;
     font-size: 30px;
     margin: 2.4em 0 .8em;
 }
@@ -1135,8 +1134,8 @@ footer img {
     color: #333;
 /*     background: -webkit-linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/intro.svg);
     background: linear-gradient( rgba(255, 255, 255, .8), rgba(255, 255, 255, .8)), url(../img/intro.svg);*/
-    background-color: #998bad;
-    background-size: cover;
+/*    background-color: #998bad;
+*/    background-size: cover;
     background-attachment: fixed;
     background-position: center center;
 
@@ -1148,8 +1147,8 @@ footer img {
 
 .top-bar h1 {
     font-size: 60px;
-    text-transform: uppercase;
-    font-weight: 700;
+/*    text-transform: uppercase;
+*/    font-weight: 700;
     color: #4C4C4C;
     line-height: 50px;
 }
