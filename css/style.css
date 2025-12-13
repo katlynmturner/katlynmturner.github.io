@@ -244,8 +244,8 @@ html,
 body {
     height: 100%;
     font-family: 'Times', serif;
-    font-size: 16pt;
-    line-height: 1.5;
+/*    font-size: 16pt;
+*/    line-height: 1.5;
     color: #000000;
 }
 
